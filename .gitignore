@@ -1,3 +1,4 @@
 .DS_Store
-.cursor/rules/git-commit-message-format.mdc
-.cursor/commands/
+
+# .cursor 内のすべてのファイルを無視する
+/.cursor/*
